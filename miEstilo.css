@@ -1,0 +1,18 @@
+body, html {
+  height: 100%;
+  /*background: linear-gradient( blue, white,black);*/
+}
+
+
+.social ul {
+	list-style: none;
+}
+
+.social ul li {
+	float:left;
+	width:21px;
+	height:24px;
+	margin:0;
+	padding:0;
+	margin-left:6px;
+}
